@@ -28,6 +28,12 @@ p {
   font-family: 'Indie Flower', cursive;
 }
 
+h2{
+  font-size: 2rem;
+  color: #ccca4e;
+  font-family: 'Indie Flower', cursive;
+}
+
 img {
   width: 80%;
 }
